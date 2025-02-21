@@ -29,7 +29,7 @@
         </font>
         <hr color="black">
         </u></i>
-        <marquee direction="right" scrollamount="40" ><img src="https://www.shutterstock.com/image-vector/high-decker-3d-bus-luxury-260nw-2248764237.jpg" width="*-180" height="100"><font size="20"><b>𝓛𝓮𝓽𝓼 𝓖𝓸..!</b></font></marquee>  
+        <marquee direction="right" scrollamount="1000" ><img src="https://www.shutterstock.com/image-vector/high-decker-3d-bus-luxury-260nw-2248764237.jpg" width="*-180" height="100"><font size="20"><b>𝓛𝓮𝓽𝓼 𝓖𝓸..!</b></font></marquee>  
         <hr color="black">  
         </marquee>  
     </body>
